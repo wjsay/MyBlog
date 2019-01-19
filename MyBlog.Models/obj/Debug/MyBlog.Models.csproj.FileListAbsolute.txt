@@ -1,0 +1,6 @@
+D:\coding\C#\MyBlog\MyBlog.Models\bin\Debug\MyBlog.Models.dll
+D:\coding\C#\MyBlog\MyBlog.Models\bin\Debug\MyBlog.Models.pdb
+D:\coding\C#\MyBlog\MyBlog.Models\obj\Debug\MyBlog.Models.csproj.CoreCompileInputs.cache
+D:\coding\C#\MyBlog\MyBlog.Models\obj\Debug\MyBlog.Models.dll
+D:\coding\C#\MyBlog\MyBlog.Models\obj\Debug\MyBlog.Models.pdb
+D:\coding\C#\MyBlog\MyBlog.Models\obj\Debug\MyBlog.Models.csprojResolveAssemblyReference.cache

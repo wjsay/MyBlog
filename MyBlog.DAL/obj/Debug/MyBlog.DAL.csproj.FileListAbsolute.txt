@@ -1,0 +1,8 @@
+D:\coding\C#\MyBlog\MyBlog.DAL\bin\Debug\MyBlog.DAL.dll
+D:\coding\C#\MyBlog\MyBlog.DAL\bin\Debug\MyBlog.DAL.pdb
+D:\coding\C#\MyBlog\MyBlog.DAL\bin\Debug\MyBlog.Models.dll
+D:\coding\C#\MyBlog\MyBlog.DAL\bin\Debug\MyBlog.Models.pdb
+D:\coding\C#\MyBlog\MyBlog.DAL\obj\Debug\MyBlog.DAL.csprojResolveAssemblyReference.cache
+D:\coding\C#\MyBlog\MyBlog.DAL\obj\Debug\MyBlog.DAL.csproj.CoreCompileInputs.cache
+D:\coding\C#\MyBlog\MyBlog.DAL\obj\Debug\MyBlog.DAL.dll
+D:\coding\C#\MyBlog\MyBlog.DAL\obj\Debug\MyBlog.DAL.pdb
